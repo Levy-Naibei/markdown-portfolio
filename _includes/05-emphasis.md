@@ -1,0 +1,3 @@
+- __Creative__ and __user centric__ software engineer.
+- Proficient in *__production grade__* software
+- My tech-stack is: *MongoDb, Expressjs, Reactjs, Nodejs*
