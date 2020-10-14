@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Mountain hiking
+* Mentoring
+* Exploring latest technologies
+  - Blockchain
+  - Data science
+  - IoT
