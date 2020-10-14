@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- __Creative__ and __user centric__ software engineer.
+- Proficient in *__production grade__* software
+- My tech-stack is: *MongoDb, Expressjs, Reactjs, Nodejs*
